@@ -50,7 +50,7 @@ __Things you don’t have to worry about:__
 
 ## Frontend Exercise
 
-The project should be made available in the `dashboard` directory with meaningful commit messages. Use TypeScript + ReactJS and [Semantic UI React](https://react.semantic-ui.com).
+The project should be made available in the `dashboard` directory with meaningful commit messages. Use TypeScript + ReactJS and [React Suite](https://rsuitejs.com/) AND/OR  [MUI](https://mui.com/).
 
 Implement a simple dashboard that has three **separated** screens:
 
