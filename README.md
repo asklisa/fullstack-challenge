@@ -84,7 +84,7 @@ need any extraneous CSS and/or animations.
 | Frontend         | Points |
 |------------------|--------|
 | ReactJS          | 0-5    |
-| Semantic UI      | 0-3    |
+| RSuite / MUI     | 0-3    |
 | UI & Screens     | 0-5    |
 | State management | 0-2    |
 
